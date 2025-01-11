@@ -566,7 +566,7 @@ public static final BossData SUPER = new BossData(
             ConstPlayer.XAYDA, //gender
             new short[]{159, 160, 161, -1, -1, -1}, //outfit {head, body, leg, bag, aura, eff}
             50000, //dame
-            new long[]{20000000}, //hp
+            new long[]{500000}, //hp
             new int[]{ 69, 70, 71, 72, 31, 32, 33, 34}, //map join
             new int[][]{
                     {Skill.MASENKO, 3, 1000},
@@ -594,7 +594,7 @@ public static final BossData SUPER = new BossData(
             ConstPlayer.XAYDA, //gender
             new short[]{165, 166, 167, -1, -1, -1}, //outfit {head, body, leg, bag, aura, eff}
             100000, //dame
-            new long[]{40000000}, //hp
+            new long[]{750000}, //hp
             new int[]{63, 64, 65, 66, 67}, //map join
             new int[][]{
                     {Skill.GALICK, 7, 1000},
@@ -621,7 +621,7 @@ public static final BossData SUPER = new BossData(
             ConstPlayer.XAYDA, //gender
             new short[]{162, 163, 164, 87, -1, -1}, //outfit {head, body, leg, bag, aura, eff}
             150000, //dame
-            new long[]{60000000}, //hp
+            new long[]{1000000}, //hp
             new int[]{  74, 75, 76, 77}, //map join
             new int[][]{
                     {Skill.KAMEJOKO, 7, 10000},
@@ -693,7 +693,7 @@ public static final BossData QUYLAO = new BossData(
             ConstPlayer.XAYDA, //gender
             new short[]{168, 169, 170, -1, -1, -1}, //outfit {head, body, leg, bag, aura, eff}
             180000, //dame
-            new long[]{25000000}, //hp
+            new long[]{1500000}, //hp
             new int[]{79, 81, 82, 83, 25, 34, 33}, //map join
             new int[][]{
                     {Skill.LIEN_HOAN, 7, 1000},
@@ -719,7 +719,7 @@ public static final BossData QUYLAO = new BossData(
             ConstPlayer.XAYDA, //gender
             new short[]{174, 175, 176, -1, -1, -1}, //outfit {head, body, leg, bag, aura, eff}
             210000, //dame
-            new long[]{40000000}, //hp
+            new long[]{2000000}, //hp
             new int[]{79, 81, 82, 83, 25, 34, 33}, //map join
             new int[][]{
                     {Skill.LIEN_HOAN, 7, 1000},
@@ -743,7 +743,7 @@ public static final BossData QUYLAO = new BossData(
             ConstPlayer.XAYDA, //gender
             new short[]{171, 172, 173, -1, -1, -1}, //outfit {head, body, leg, bag, aura, eff}
             240000, //dame
-            new long[]{50000000}, //hp
+            new long[]{2500000}, //hp
             new int[]{79, 81, 82, 83, 25, 34, 33}, //map join
             new int[][]{
                     {Skill.LIEN_HOAN, 7, 1000},
@@ -767,7 +767,7 @@ public static final BossData QUYLAO = new BossData(
             ConstPlayer.XAYDA, //gender
             new short[]{177, 178, 179, -1, -1, -1}, //outfit {head, body, leg, bag, aura, eff}
             260000, //dame
-            new long[]{70000000}, //hp
+            new long[]{3000000}, //hp
             new int[]{79, 81, 82, 83, 25, 34, 33}, //map join
             new int[][]{
                     {Skill.LIEN_HOAN, 7, 1000},
