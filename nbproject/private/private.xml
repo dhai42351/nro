@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/com/girlkun/models/npc/NpcFactory.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/NRONIGHTV2/NRONIGHTV2/src/com/girlkun/models/boss/list_boss/Broly/Broly.java</file>
+            <file>file:/D:/NRONIGHTV2/NRONIGHTV2/src/com/girlkun/models/boss/BossData.java</file>
+            <file>file:/D:/NRONIGHTV2/NRONIGHTV2/src/com/girlkun/models/boss/BossID.java</file>
+            <file>file:/D:/NRONIGHTV2/NRONIGHTV2/src/com/girlkun/models/intrinsic/Intrinsic.java</file>
+            <file>file:/D:/NRONIGHTV2/NRONIGHTV2/src/com/girlkun/models/boss/Boss.java</file>
+            <file>file:/D:/NRONIGHTV2/NRONIGHTV2/src/com/girlkun/models/boss/list_boss/nappa/Kuku.java</file>
+            <file>file:/D:/NRONIGHTV2/NRONIGHTV2/src/com/girlkun/models/boss/BossManager.java</file>
+            <file>file:/D:/NRONIGHTV2/NRONIGHTV2/src/com/girlkun/models/boss/BossStatus.java</file>
+            <file>file:/D:/NRONIGHTV2/NRONIGHTV2/src/com/girlkun/models/boss/BossesData.java</file>
+        </group>
+    </open-files>
+</project-private>
