@@ -31,7 +31,7 @@ public class MySession extends Session {
     private static final Map<String, AntiLogin> ANTILOGIN = new HashMap<>();
     public Player player;
 
-    public byte timeWait = 100;
+    public int timeWait = 5000;
 
     public boolean connected;
     public boolean sentKey;
